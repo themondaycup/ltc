@@ -15,11 +15,26 @@
     + What does it mean to clone a repository?
         - Making a copy/download of a git repository including everything and its history
 
-- topic 2
+- topic 2 ✅
+    + What is CLI
+        - Its the interface which you enter commands for a computer to process something. Takes the command as inputs and executes the task for them
     + installing Azure CLI
     + configuring cloud cli with my account
 
-- topic 3
-- topic 4
+- topic 3 ✅
+    + what is IaC
+        - Its setting up resources to manage in a file to quickly create, reuse and share anytime and start up quickly instead of clicking around a dashboard. Automatically applied by tools like terraform, ansible etc.
+    + What is Terraform?
+        - It a tool that lets you build, change, version control cloud and on-prem resources 
+    + What does terraform init do?
+        - Command initializes a working directory containing terraform config files. Its the first command that should run after writing a new terraform config or cloning a existing config. Its safe to do multiple times to bring the working directory up to date with any changes in the config 
+    + What does terraform apply do?
+        - executes the action in the terraform plan
+    + installed Terraform 
+
+- topic 4 ✅
+    + What is SSH?
+        - Secure Shell (SSH) protocol is a method for securely sending commands to a computer over the unsecured network
+    + Worked on exercise for using SSH 
 - topic 5
 - Linux command line CTF Challenge
