@@ -36,5 +36,7 @@
     + What is SSH?
         - Secure Shell (SSH) protocol is a method for securely sending commands to a computer over the unsecured network
     + Worked on exercise for using SSH 
-- topic 5
+- topic 5 ✅
+    + understanding commands to use for the CTF, including but not all: ```pwd, cd, ls, cat```
+    + Network investigation commands such as ```netstat -tuln, ss -tuln, curl localhost:port``` 
 - Linux command line CTF Challenge
