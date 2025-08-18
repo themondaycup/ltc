@@ -39,7 +39,7 @@
 - topic 5 ✅
     + understanding commands to use for the CTF, including but not all: ```pwd, cd, ls, cat```
     + Network investigation commands such as ```netstat -tuln, ss -tuln, curl localhost:port``` 
-- Linux command line CTF Challengen✅
+- Linux command line CTF Challenge ✅
 - *Not going to give away how I completed the challenges but only going to writing a little of my thoughts on each of them*
     + Challenge 1: Hidden Files 
         - simple, found it quickly
@@ -65,5 +65,5 @@
         - gave me a little trouble understanding why the errors kept popping up but eventually fixed it and got the flag. Had to curl to the url 
     +  Challenge 12: Network Traffic Analysis
         - a little confusing without using wireshark but was able to do it
-        
+
     ![](images/phase1.png)
