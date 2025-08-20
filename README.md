@@ -43,37 +43,42 @@
 + Network investigation commands such as ```netstat -tuln, ss -tuln, curl localhost:port``` 
 
 ## Linux command line CTF Challenge ✅
-- *Not going to give away how I completed the challenges but only going to writing a little of my thoughts on each of them*
-    + Challenge 1: Hidden Files 
-        - simple, found it quickly
-    + Challenge 2: File Searching
-        - took some thinking but got it done
-    + Challenge 3: File Size Analysis
-        - A bit challenging but eventually got it. ```grep``` helped me out with this
-    + Challenge 4: User Investigation
-        - got the flag once I understood what to do
-    + Challenge 5: Permission Analysis
-        - pretty straight forward finding the file and the flag
-    + Challenge 6: Network Services
-        - another straight forward challenge once interacting with it
-    + Challenge 7: The Encoded Secret
-        - Followed the hint to get the flag
-    + Challenge 8: SSH Key Authentication
-        - inspect ssh directoy like the hint suggested and found the flag
-    + Challenge 9: DNS troubleshooting
-        - used a tool to compare files and see whats changed 
-    + Challenge 10: Remote upload
-        - very simple and flag popped up right away
-    + Challenge 11: Web Configuration
-        - gave me a little trouble understanding why the errors kept popping up but eventually fixed it and got the flag. Had to curl to the url 
-    +  Challenge 12: Network Traffic Analysis
-        - a little confusing without using wireshark but was able to do it
+> *Not going to give away how I completed the challenges but only 
+> going to writing a little of my thoughts on each of them*
++ Challenge 1: Hidden Files 
+    - simple, found it quickly
++ Challenge 2: File Searching
+    - took some thinking but got it done
++ Challenge 3: File Size Analysis
+    - A bit challenging but eventually got it. ```grep``` helped me out with this
++ Challenge 4: User Investigation
+    - got the flag once I understood what to do
++ Challenge 5: Permission Analysis
+    - pretty straight forward finding the file and the flag
++ Challenge 6: Network Services
+    - another straight forward challenge once interacting with it
++ Challenge 7: The Encoded Secret
+    - Followed the hint to get the flag
++ Challenge 8: SSH Key Authentication
+    - inspect ssh directoy like the hint suggested and found the flag
++ Challenge 9: DNS troubleshooting
+    - used a tool to compare files and see whats changed 
++ Challenge 10: Remote upload
+    - very simple and flag popped up right away
++ Challenge 11: Web Configuration
+    - gave me a little trouble understanding why the errors kept popping up but eventually fixed it and got the flag. Had to curl to the url 
++  Challenge 12: Network Traffic Analysis
+    - a little confusing without using wireshark but was able to do it
 
-    ![](images/phase1.png)
+![](images/phase1.png)
 
 ---
 
 # Phase 2: Programming
 
 ## Topic 1: Python Basics
+>going through each topic in the book: *Python Crash Course by Eric Matthes* before moving onto the next topic. 
 
+- Chapter 1: Getting Started ✅
+- Chapter 2: Variables and Simple Data Types ✅
+- Chapter 3: Introducing Lists
